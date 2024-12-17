@@ -337,13 +337,3 @@ Practice these debugging techniques with your own containers. Try to:
     Simulate different failure scenarios
     Extract specific information using docker inspect
     Monitor resource usage over time
-
-Tomorrow, we'll have our second quiz! Make sure you are comfortable with:
-
-    Debugging Techniques
-    Multi-Stage Builds
-    Docker Compose
-    Docker Networking
-    Environment Variables & Configuration
-
-
